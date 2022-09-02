@@ -1,0 +1,105 @@
+.cuerpo{
+ background-color: #A69B00;  
+}
+    
+.cuerpo1{
+ background-color: #6C8CD5;   
+ }
+
+F{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: #594CD8;
+    }
+
+J{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #00CC00;
+    }
+K{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+   color: #FFAD73;
+        }
+    
+L{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   color: #5DD0C0;
+        }
+        
+      
+.td {
+     background-color: #1D7373;
+    color: white;
+  text-align: center;
+  font-family:sans-serif ;
+}
+
+.th {
+  background-color: #A64B00;
+  color: black;
+}
+
+.td2{
+    background-color: #1D7373;
+    color: white;
+}
+
+.in[type=submit]{
+	background-color: #00685A;
+	color: #A3B92E;
+	font-size: 20px;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+
+.in[type=submit]:hover{
+	background-color: #870047;
+	color: black;
+}
+
+.in[type=submit]:active{
+	background-color: #150873;
+	color: white;
+}
+
+.a:link {
+  color: red;
+}
+.a:visited {
+  color: green;
+}
+.a:hover {
+  color: black;
+}
+.a:active {
+  color: blue;
+}
+
+
+.el:link {
+  color: red;
+}
+.el:visited {
+  color: red;
+}
+.el:hover {
+  color: black;
+}
+.el:active {
+  color: blue;
+}
+
+
+.z:link {
+  color: blue;
+}
+.z:visited {
+  color: yellow;
+}
+.z:hover {
+  color: black;
+}
+.z:active {
+  color: green;
+}
